@@ -27,3 +27,11 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## Version Information
+
+The most up-to-date build of this project is always available in the **Releases** section of this repository.
+
+Please use the **latest release** unless you specifically need an older version for testing, comparison, or compatibility purposes.
+
+Previous releases are kept available so users and developers can review, compare, and work with earlier versions when needed.
